@@ -1,0 +1,26 @@
+{
+  "name": "truebot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Alex-Garth/TrueBot.git"
+  },
+  "author": "Alex Garth <alexgarth.spam@googlemail.com> (https://github.com/Alex-Garth)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex-Garth/TrueBot/issues"
+  },
+  "homepage": "https://github.com/Alex-Garth/TrueBot#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
