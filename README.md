@@ -4,4 +4,4 @@
 
 ## Contact
 
-(Alex Garth <alexgarth2005@googlemail>)[mailto:alexgarth2005@googlemail.com]
+Alex Garth <(alexgarth2005@googlemail)[mailto:alexgarth2005@googlemail.com]>
